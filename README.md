@@ -1,4 +1,4 @@
-# Mosa Tea Reorder Point Pipeline
+# Tea Reorder Point Pipeline
 
 [![CI](https://github.com/b1luu/mosa-tea-rop/actions/workflows/ci.yml/badge.svg)](https://github.com/b1luu/mosa-tea-rop/actions/workflows/ci.yml)
 [![CD](https://github.com/b1luu/mosa-tea-rop/actions/workflows/cd.yml/badge.svg)](https://github.com/b1luu/mosa-tea-rop/actions/workflows/cd.yml)
